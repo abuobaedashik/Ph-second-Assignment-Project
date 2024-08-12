@@ -175,6 +175,21 @@
         padding:20px 0;
         
     }
+    .foot{
+        flex-direction: column;
+        gap: 10px;
+        margin-left: 10px;
+
+    }
+    .f1{
+       max-width: 96%;
+    }
+    .foot-item{
+        margin-top: 0;
+    }
+    footer{
+        margin-top: 40px;
+    }
 }
 
 /*---------------------------
