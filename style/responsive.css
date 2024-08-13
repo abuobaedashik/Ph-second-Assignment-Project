@@ -175,6 +175,30 @@
         padding:20px 0;
         
     }
+    .contact{
+        margin:10px 15px;
+        margin-top: 30px;
+    }
+    .contact-form{
+        max-width: 100%;
+        margin: 10px 10px;
+    }
+    .cont-name{
+       width: 90%;
+       margin-left: 0;
+    }
+    .cont-email{
+       width: 90%;
+       margin-left:0;
+    }
+    .type-message{
+        width: 86%;
+       margin-left:10px; 
+    }
+    .cont-btn{
+        margin-left:10px;
+        width: 130px;
+    }
     .foot{
         flex-direction: column;
         gap: 10px;
