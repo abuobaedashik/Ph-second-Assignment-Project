@@ -571,8 +571,74 @@ td{
     background-color: rgba(255, 255, 255, 0.1);
     margin-bottom: 100px;
 }
+
 /*======================= 
-Footer section
+  Contact section
+========================= */
+.contact{
+    border: 1px solid white;
+    margin-bottom: 100px;
+    background-image:linear-gradient(to right,rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.cont-title{
+    font-size: 3rem;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 30px;
+}
+.contact-sub{
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 20px;
+}
+.cont-name{
+    background-color:rgba(255, 255, 255, 0.5);
+    width:47%;
+    height: 60px;
+    border: none;
+    padding-left: 40px;
+    margin-top: 30px;
+    border-radius: 8px;
+}
+.cont-email{
+    background-color:rgba(255, 255, 255, 0.5);
+    width:47%;
+    height: 60px;
+    border: none;
+    padding-left: 40px;
+    margin-top: 30px;
+    border-radius: 8px;
+    margin-left: 50px;
+    color: #FFFFFF;
+}
+.contact-form{
+    max-width: 87%;
+    margin: 0 auto;
+    margin-left: 50px;
+}
+.type-message{
+    display: block;
+    background-color:rgba(255, 255, 255, 0.5);
+    width: 87%;
+    height: 130px;
+    border: none;
+    padding-left: 40px;
+    margin: 0 auto;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+.cont-btn{
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+/*======================= 
+ Footer section
 ========================= */
 footer{
     background-color: rgba(255, 255, 255, 0.1);
