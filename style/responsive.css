@@ -201,19 +201,28 @@
     }
     .foot{
         flex-direction: column;
-        gap: 10px;
+        gap: 0;
         margin-left: 10px;
 
     }
     .f1{
        max-width: 96%;
     }
-    .foot-item{
+    .foot-item,.f2,.f3{
         margin-top: 0;
+    }
+    .foot-item h4{
+        margin-top: 0;
+        margin-bottom: 0;
     }
     footer{
         margin-top: 40px;
     }
+    .div hr{
+   width: 85%;
+   margin: 0 auto;
+   margin-top: 40px;
+}
 }
 
 /*---------------------------
