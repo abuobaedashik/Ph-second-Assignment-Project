@@ -556,6 +556,12 @@ td{
     height: 270px;
     border-radius: 18px;
     margin: auto;
+    position: relative;
+}
+.trainer{
+    position: absolute;
+    bottom: 20px;
+    left: 40px;
 }
 .team-img img{
     width: 100%;
